@@ -14,9 +14,8 @@ Summary: Implements the structural model for variances in order to detect differ
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-smvar-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-smvar-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-smvar-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-smvar-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-smvar-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-smvar-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-smvar-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-smvar-feedstock)
 
 Current release info
 ====================
