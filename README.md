@@ -1,11 +1,11 @@
-About r-smvar
-=============
+About r-smvar-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smvar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=SMVar
 
 Package license: GPL
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smvar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements the structural model for variances in order to detect differentially expressed genes from gene expression data
 
